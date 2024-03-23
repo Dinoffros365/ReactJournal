@@ -16,11 +16,6 @@ export default function App() {
       <Navbar />
       <section className='section-cards main__section-cards'>
         {cards}
-        {cards}
-        {cards}
-        {cards}
-        {cards}
-        {cards}
       </section>
     </div>
   )
